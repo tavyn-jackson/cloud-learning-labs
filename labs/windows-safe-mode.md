@@ -9,10 +9,10 @@
 **Issues Simulated:**
 - User PC stuck in Safe Mode after diagnostic config.
 **Resolution:**
-  - Disabled Safe Boot; confirmed normal boot
- *Tools used:**
+- Disabled Safe Boot; confirmed normal boot
+*Tools used:**
 - msconfig, eventvwr
 **Result:**
-  - System booted successfully.
- **Reflection:**
-- LEanred ow startup configuration affects the system boot sequence 
+- System booted successfully.
+**Reflection:**
+- Learned how startup configuration affects the system boot sequence 
