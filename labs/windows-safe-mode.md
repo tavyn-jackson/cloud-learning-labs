@@ -8,11 +8,15 @@
 
 **Issues Simulated:**
 - User PC stuck in Safe Mode after diagnostic config.
+
 **Resolution:**
 - Disabled Safe Boot; confirmed normal boot
-*Tools used:**
+
+*Tools Used:**
 - msconfig, eventvwr
+
 **Result:**
 - System booted successfully.
+
 **Reflection:**
 - Learned how startup configuration affects the system boot sequence 
